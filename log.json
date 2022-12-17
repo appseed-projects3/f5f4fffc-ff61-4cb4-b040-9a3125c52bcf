@@ -1,0 +1,23 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "mysql",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "datta-able",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "f5f4fffc-ff61-4cb4-b040-9a3125c52bcf",
+    "task_info": "Upload Sources [0%] - 163 files",
+    "task_output": "f5f4fffc-ff61-4cb4-b040-9a3125c52bcf.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-12-17-21-24-13",
+    "task_ts_start": "2022-12-17-21-24-11"
+}
